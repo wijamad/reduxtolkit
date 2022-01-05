@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price": 889
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": 889
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price": 889
+    },
+    {
+      "id": 4,
+      "title": "product 4",
+      "price": 889
+    },
+    {
+      "id": 5,
+      "title": "product 5",
+      "price": 889
+    },
+    {
+      "title": "product 7",
+      "price": "999",
+      "id": 6
+    },
+    {
+      "title": "prduc 6",
+      "price": "999",
+      "id": 7
+    },
+    {
+      "title": "asdas",
+      "price": "asdasd",
+      "id": 8
+    }
+  ]
+}
